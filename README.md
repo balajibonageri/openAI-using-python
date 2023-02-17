@@ -1,7 +1,7 @@
 # Use ChatGPT with Python
 Register openAI account
 To use ChatGPT with Python, first you need an OpenAI account, you can easily register one at 
-https://auth0.openai.com/
+https://platform.openai.com/account/api-keys
 # Generate API Key
 Once registered and login, you can generate an API key by going to “Personal” -> “View API keys”
 Then click “Create new secret key”
